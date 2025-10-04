@@ -18,8 +18,8 @@ h5{
 }
 
 .container{
-    width: 1170px;
-    margin: 0 auto;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 a{
